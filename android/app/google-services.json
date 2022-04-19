@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315914818053",
+    "project_id": "book-coffiee",
+    "storage_bucket": "book-coffiee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315914818053:android:016a99ce16a657f1ef026c",
+        "android_client_info": {
+          "package_name": "com.graphics.book_coffiee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315914818053-l2igin75cqgl3gueorkn2kfd1khr293l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOGNHWTIkWqCMmo75L_hAgsSAqGZ7O1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315914818053-l2igin75cqgl3gueorkn2kfd1khr293l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
