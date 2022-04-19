@@ -1,16 +1,7 @@
-# book_coffiee
+# book_a_coffiee
 
-coffie bookin app
+hobbie coffie booking app
 
-## Getting Started
+## Objective of project
+The objective of this project is to learn how we can have persistent data in our app. It is to learn how we can handle user authetication using Firebase Authentication and store user data using Firebase Cloud storage.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
